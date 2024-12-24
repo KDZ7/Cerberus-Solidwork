@@ -36,7 +36,7 @@ Goupille à vis/Fixation de l'axe(25mm et 30mm)
  
 https://www.amazon.fr/Increway-reliure-Chicago-poteaux-daccueil/dp/B07FZXDYM2/ref=ci_mcx_mr_mp_m_d_sccl_2_6/258-9974470-3692709?pd_rd_w=XVl9X&content-id=amzn1.sym.f4202548-28b9-4238-addd-1e87d5d2f948%3Aamzn1.symc.15cbde64-36a4-47c6-b315-5d1a0d7227bc&pf_rd_p=f4202548-28b9-4238-addd-1e87d5d2f948&pf_rd_r=XZ5XM2KG11B90YM5VA5H&pd_rd_wg=Kd9Gt&pd_rd_r=6a106ced-5dfc-4dc6-bac9-559c5dd1a5af&pd_rd_i=B07FL4DJQF&th=1
 
-Vis M2 ../16/20mm
+Vis M2 ../16/20mm 
 https://www.amazon.fr/Vis-Btr-5mm-Cylindrique-Anti-Rouille/dp/B0CVV9RWK5/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.IBywnxFbEgqZy71YNme5nmuID3MSNpDy2QCc4HXFjmkK_ed9iBCp9zwYe0dg0Sm7Vp6Ghhw8vt30aXWqXGPSbV7C8orFjRNKlWRCYkANVB9791KLnXYG9_TNxwvoGwa59Q9r5gRGwsJGDCZBPut4SIdABGsBHwXYTDAQsCFvQmFeOKaEBLdfzsLsgP_FkdYb3NavMmjP76fNeVxQdnwmgnJsYP7zlEmn1uisYJF7eLXn3el9y1aOeKBBykjT4bhRLGR2lhoMUzlBob3sgGmxVu8c6k8orBrRd2hcO2Lnszw.s87R0Q07lk8At7H7umspmF3InIj2wxlS0x2_zvQRxWU&dib_tag=se&keywords=vis%2Bm2&qid=1734289051&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 
 !!! Vis M3 ../16/20mm/  
@@ -46,4 +46,9 @@ https://www.amazon.fr/Vis-Btr-20mm-Cylindrique-Anti-Rouille/dp/B0BRGHPDF8/ref=sr
 Pour le joint ball head on part sur une Vis M3 avec Level & Linkage qui dependra du choix:
 	- Pour un Level_XXmm M2,  Linkage sera M2 de 200mm 
 	- Pour un Level_XXmm M3,  Linkage sera M3 de 200mm 	
+
+
+
+Support de fixation servomoteur Lx16A achat aux cas ou??
+https://shop.pimoroni.com/products/metal-gear-serial-servo?variant=41200188620883
 
